@@ -1,0 +1,40 @@
+html {
+    background-color: rgb(114, 116, 119);
+}
+
+main {
+    background-color: rgb(231, 231, 231);
+    padding: 1em;
+    margin: 0 auto;
+    border-radius: 1%;
+    font-family: 'Open Sans', sans-serif;
+    max-width: 600px;
+}
+
+h1 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    color: black;
+    text-align: center;
+}
+
+.wiki-link {
+    align-content: center;
+}
+
+#image {
+    display: block;
+    position: center;
+    width: auto;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    max-width: 80%;
+    text-align: center;
+}
+
+#wiki-link {
+    text-align: center;
+}
